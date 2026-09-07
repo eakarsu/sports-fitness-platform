@@ -1,0 +1,448 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "verify-email"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "student-placement",
+      "recital-program",
+      "parent-communication",
+      "competition-strategy",
+      "photo-tagging",
+      "class-description",
+      "program-book",
+      "coach-advisor",
+      "api-ai-course-conditions",
+      "api-ai-member-communications",
+      "api-ai-round-pairing",
+      "api-ai-member-retention",
+      "member-retention-intervention-ai",
+      "referee",
+      "charts",
+      "picks",
+      "cross-sport-player-valuation-for-daily-fantasy",
+      "fair-play-bias",
+      "postgame-summary",
+      "team-balancing",
+      "referee-matcher",
+      "player-development",
+      "communication-generator"
+    ],
+    "ai": true,
+    "representativeId": "student-placement",
+    "description": "One assistant for 23 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "student-placement",
+        "title": "AI Student Placement",
+        "originalPath": "/features/student-placement"
+      },
+      {
+        "id": "recital-program",
+        "title": "AI Recital Program",
+        "originalPath": "/features/recital-program"
+      },
+      {
+        "id": "parent-communication",
+        "title": "AI Parent Communication",
+        "originalPath": "/features/parent-communication"
+      },
+      {
+        "id": "competition-strategy",
+        "title": "AI Competition Strategy",
+        "originalPath": "/features/competition-strategy"
+      },
+      {
+        "id": "photo-tagging",
+        "title": "AI Photo Tagging",
+        "originalPath": "/features/photo-tagging"
+      },
+      {
+        "id": "class-description",
+        "title": "Class Description Generator",
+        "originalPath": "/features/class-description"
+      },
+      {
+        "id": "program-book",
+        "title": "Program Book Content",
+        "originalPath": "/features/program-book"
+      },
+      {
+        "id": "coach-advisor",
+        "title": "AI Advisor",
+        "originalPath": "/features/coach-advisor"
+      },
+      {
+        "id": "api-ai-course-conditions",
+        "title": "Course Conditions",
+        "originalPath": "/features/api-ai-course-conditions"
+      },
+      {
+        "id": "api-ai-member-communications",
+        "title": "Member Communications",
+        "originalPath": "/features/api-ai-member-communications"
+      },
+      {
+        "id": "api-ai-round-pairing",
+        "title": "Round Pairing",
+        "originalPath": "/features/api-ai-round-pairing"
+      },
+      {
+        "id": "api-ai-member-retention",
+        "title": "Member Retention",
+        "originalPath": "/features/api-ai-member-retention"
+      },
+      {
+        "id": "member-retention-intervention-ai",
+        "title": "member retention intervention ai",
+        "originalPath": "/features/member-retention-intervention-ai"
+      },
+      {
+        "id": "referee",
+        "title": "Referee Assistant",
+        "originalPath": "/features/referee"
+      },
+      {
+        "id": "charts",
+        "title": "Charts",
+        "originalPath": "/features/charts"
+      },
+      {
+        "id": "picks",
+        "title": "Picks",
+        "originalPath": "/features/picks"
+      },
+      {
+        "id": "cross-sport-player-valuation-for-daily-fantasy",
+        "title": "cross sport player valuation for daily fantasy",
+        "originalPath": "/features/cross-sport-player-valuation-for-daily-fantasy"
+      },
+      {
+        "id": "fair-play-bias",
+        "title": "Fair play bias",
+        "originalPath": "/features/fair-play-bias"
+      },
+      {
+        "id": "postgame-summary",
+        "title": "Postgame summary",
+        "originalPath": "/features/postgame-summary"
+      },
+      {
+        "id": "team-balancing",
+        "title": "Team balancing",
+        "originalPath": "/features/team-balancing"
+      },
+      {
+        "id": "referee-matcher",
+        "title": "Referee matcher",
+        "originalPath": "/features/referee-matcher"
+      },
+      {
+        "id": "player-development",
+        "title": "Player development",
+        "originalPath": "/features/player-development"
+      },
+      {
+        "id": "communication-generator",
+        "title": "Communication generator",
+        "originalPath": "/features/communication-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "class-scheduling-optimizer",
+      "schedules-competitions-recitals-lack-ai-endpoints-for-schedu",
+      "schedule-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "class-scheduling-optimizer",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "class-scheduling-optimizer",
+        "title": "Smart Class Scheduling Optimizer",
+        "originalPath": "/features/class-scheduling-optimizer"
+      },
+      {
+        "id": "schedules-competitions-recitals-lack-ai-endpoints-for-schedu",
+        "title": "Schedules competitions recitals lack ai endpoints for schedu",
+        "originalPath": "/features/schedules-competitions-recitals-lack-ai-endpoints-for-schedu"
+      },
+      {
+        "id": "schedule-optimizer",
+        "title": "Schedule optimizer",
+        "originalPath": "/features/schedule-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "costume-budget-forecaster",
+      "api-ai-dynamic-pricing"
+    ],
+    "ai": true,
+    "representativeId": "costume-budget-forecaster",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "costume-budget-forecaster",
+        "title": "Costume Budget Forecaster",
+        "originalPath": "/features/costume-budget-forecaster"
+      },
+      {
+        "id": "api-ai-dynamic-pricing",
+        "title": "Dynamic Pricing",
+        "originalPath": "/features/api-ai-dynamic-pricing"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "routine-scoring",
+      "predictive-talent-identification",
+      "insights",
+      "api-ai-handicap-analysis",
+      "api-ai-product-recommendations",
+      "api-ai-maintenance-optimization",
+      "api-ai-facility-utilization-forecast",
+      "api-ai-tournament-format-recommendation",
+      "personalized-swing-analysis-from-member",
+      "round-pairing-optimization-for-fourso",
+      "facility-utilization-forecasting",
+      "tournament-format-recommender",
+      "swing-analysis-vision-ai",
+      "betting",
+      "fantasy",
+      "injury-timeline-and-performance-decay-prediction",
+      "referee-decision-prediction-based-on-context-history",
+      "ai-driven-injury-impact-prediction",
+      "game-predictions"
+    ],
+    "ai": true,
+    "representativeId": "routine-scoring",
+    "description": "One assistant for 19 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "routine-scoring",
+        "title": "Routine Scoring Analysis",
+        "originalPath": "/features/routine-scoring"
+      },
+      {
+        "id": "predictive-talent-identification",
+        "title": "Predictive talent identification",
+        "originalPath": "/features/predictive-talent-identification"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "api-ai-handicap-analysis",
+        "title": "Handicap Analysis",
+        "originalPath": "/features/api-ai-handicap-analysis"
+      },
+      {
+        "id": "api-ai-product-recommendations",
+        "title": "Product Recommendations",
+        "originalPath": "/features/api-ai-product-recommendations"
+      },
+      {
+        "id": "api-ai-maintenance-optimization",
+        "title": "Maintenance Optimization",
+        "originalPath": "/features/api-ai-maintenance-optimization"
+      },
+      {
+        "id": "api-ai-facility-utilization-forecast",
+        "title": "Facility Utilization Forecast",
+        "originalPath": "/features/api-ai-facility-utilization-forecast"
+      },
+      {
+        "id": "api-ai-tournament-format-recommendation",
+        "title": "Tournament Format Recommendation",
+        "originalPath": "/features/api-ai-tournament-format-recommendation"
+      },
+      {
+        "id": "personalized-swing-analysis-from-member",
+        "title": "personalized swing analysis from member",
+        "originalPath": "/features/personalized-swing-analysis-from-member"
+      },
+      {
+        "id": "round-pairing-optimization-for-fourso",
+        "title": "round pairing optimization for fourso",
+        "originalPath": "/features/round-pairing-optimization-for-fourso"
+      },
+      {
+        "id": "facility-utilization-forecasting",
+        "title": "facility utilization forecasting",
+        "originalPath": "/features/facility-utilization-forecasting"
+      },
+      {
+        "id": "tournament-format-recommender",
+        "title": "tournament format recommender",
+        "originalPath": "/features/tournament-format-recommender"
+      },
+      {
+        "id": "swing-analysis-vision-ai",
+        "title": "swing analysis vision ai",
+        "originalPath": "/features/swing-analysis-vision-ai"
+      },
+      {
+        "id": "betting",
+        "title": "Betting Analyzer",
+        "originalPath": "/features/betting"
+      },
+      {
+        "id": "fantasy",
+        "title": "Fantasy Optimizer",
+        "originalPath": "/features/fantasy"
+      },
+      {
+        "id": "injury-timeline-and-performance-decay-prediction",
+        "title": "injury timeline and performance decay prediction",
+        "originalPath": "/features/injury-timeline-and-performance-decay-prediction"
+      },
+      {
+        "id": "referee-decision-prediction-based-on-context-history",
+        "title": "referee decision prediction based on context history",
+        "originalPath": "/features/referee-decision-prediction-based-on-context-history"
+      },
+      {
+        "id": "ai-driven-injury-impact-prediction",
+        "title": "ai driven injury impact prediction",
+        "originalPath": "/features/ai-driven-injury-impact-prediction"
+      },
+      {
+        "id": "game-predictions",
+        "title": "Game predictions",
+        "originalPath": "/features/game-predictions"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "music-suggestions",
+      "music-videos-photos-lack-ai-curation-suggestion-endpoints"
+    ],
+    "ai": true,
+    "representativeId": "music-suggestions",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "music-suggestions",
+        "title": "Music Suggestions",
+        "originalPath": "/features/music-suggestions"
+      },
+      {
+        "id": "music-videos-photos-lack-ai-curation-suggestion-endpoints",
+        "title": "Music videos photos lack ai curation suggestion endpoints",
+        "originalPath": "/features/music-videos-photos-lack-ai-curation-suggestion-endpoints"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "attendance-lacks-ai-no-show-churn-prediction",
+      "member-ltv-churn-prediction-with-targete",
+      "sentiment-analysis-on-sports-news-correlated-with-line"
+    ],
+    "ai": true,
+    "representativeId": "attendance-lacks-ai-no-show-churn-prediction",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "attendance-lacks-ai-no-show-churn-prediction",
+        "title": "Attendance lacks ai no show churn prediction",
+        "originalPath": "/features/attendance-lacks-ai-no-show-churn-prediction"
+      },
+      {
+        "id": "member-ltv-churn-prediction-with-targete",
+        "title": "member ltv churn prediction with targete",
+        "originalPath": "/features/member-ltv-churn-prediction-with-targete"
+      },
+      {
+        "id": "sentiment-analysis-on-sports-news-correlated-with-line",
+        "title": "sentiment analysis on sports news correlated with line",
+        "originalPath": "/features/sentiment-analysis-on-sports-news-correlated-with-line"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "injury-risk"
+    ],
+    "ai": true,
+    "representativeId": "injury-risk",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "injury-risk",
+        "title": "Injury risk",
+        "originalPath": "/features/injury-risk"
+      }
+    ]
+  }
+]

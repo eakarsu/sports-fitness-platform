@@ -1,0 +1,38 @@
+[
+  {
+    "id": "AIDanceStudioManager",
+    "name": "Dance studio manager",
+    "sourceProject": "AIDanceStudioManager",
+    "services": []
+  },
+  {
+    "id": "AIFitnessCoach",
+    "name": "Fitness coach",
+    "sourceProject": "AIFitnessCoach",
+    "services": []
+  },
+  {
+    "id": "AIGolfCourseOperationsManager",
+    "name": "Golf course operations manager",
+    "sourceProject": "AIGolfCourseOperationsManager",
+    "services": []
+  },
+  {
+    "id": "AIMartialArtDojoManager",
+    "name": "Martial art dojo manager",
+    "sourceProject": "AIMartialArtDojoManager",
+    "services": []
+  },
+  {
+    "id": "AISportsAnalytics",
+    "name": "Sports analytics",
+    "sourceProject": "AISportsAnalytics",
+    "services": []
+  },
+  {
+    "id": "AIYouthSportsLeagueManager",
+    "name": "Youth sports league manager",
+    "sourceProject": "AIYouthSportsLeagueManager",
+    "services": []
+  }
+]

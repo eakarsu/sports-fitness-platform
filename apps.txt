@@ -1,0 +1,6 @@
+AIDanceStudioManager
+AIFitnessCoach
+AIGolfCourseOperationsManager
+AIMartialArtDojoManager
+AISportsAnalytics
+AIYouthSportsLeagueManager

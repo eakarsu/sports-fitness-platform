@@ -1,0 +1,1941 @@
+{
+  "mapped": [
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/classes",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "classes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/schedules",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/enrollment",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "enrollment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/attendance",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/studios",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "studios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/students",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "students",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/teachers",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "teachers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/families",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "families",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/recitals",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "recitals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/competitions",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "competitions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/tickets",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/trial-classes",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "trial-classes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/summer-intensives",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "summer-intensives",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/makeup-classes",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "makeup-classes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/merchandise",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "merchandise",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/financial-reports",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "financial-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/costumes",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "costumes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/costume-readiness-risk",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "costume-readiness-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/props",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "props",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/music",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "music",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/videos",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "videos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/photos",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "photos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/achievements",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "achievements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/measurements",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "measurements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "/waitlist",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "canonical": "waitlist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "student-placement",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "student-placement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "recital-program",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "recital-program",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "parent-communication",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "parent-communication",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "competition-strategy",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "competition-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "recital-choreography",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "recital-choreography",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "class-scheduling-optimizer",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "class-scheduling-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "student-progress-report",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "student-progress-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "costume-budget-forecaster",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "costume-budget-forecaster",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "talent-show-matcher",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "talent-show-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "multilingual-parent-portal",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "multilingual-parent-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "photo-tagging",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "photo-tagging",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "video-highlight-suggestions",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "video-highlight-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "teacher-workload-balance",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIAdvancedFeaturesPage.jsx",
+      "canonical": "teacher-workload-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "class-description",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "class-description",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "costume-design",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "costume-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "routine-scoring",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "routine-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "program-book",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "program-book",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "student-placement",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "student-placement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "music-suggestions",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/pages/AIFeaturesPage.jsx",
+      "canonical": "music-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "cf/predictive-talent-identification",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "predictive-talent-identification",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "cf/recital-competition-optimization",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "recital-competition-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "cf/student-progression-tracking",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "student-progression-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "cf/teacher-workload-balancing",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "teacher-workload-balancing",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "cf/parent-engagement-automation",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "parent-engagement-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/schedules-competitions-recitals-lack-ai-endpoints-for-schedu",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "schedules-competitions-recitals-lack-ai-endpoints-for-schedu",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/music-videos-photos-lack-ai-curation-suggestion-endpoints",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "music-videos-photos-lack-ai-curation-suggestion-endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/attendance-lacks-ai-no-show-churn-prediction",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "attendance-lacks-ai-no-show-churn-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/no-video-streaming-recording-platform-integration",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "video-streaming-recording-platform-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/no-parent-portal-for-attendance-grades-messaging",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "parent-portal-for-attendance-grades-messaging",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/limited-mobile-app-for-students-teachers",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "limited-mobile-app-for-students-teachers",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/no-music-licensing-integration-for-public-performances",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "music-licensing-integration-for-public-performances",
+      "kind": "route"
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "sourceKey": "gap/no-webhooks",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/workouts",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "workouts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/golf",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "golf",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/running",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "running",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/recovery",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/training-load-balance",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "training-load-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/ai-coach-advisor",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "coach-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/calendar",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/progress",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "progress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "contact-public",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "contact-public",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "timer",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "timer",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIFitnessCoach",
+      "sourceKey": "integrations-marketplace",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "canonical": "integrations-marketplace",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "tee-times",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "tee-times",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "memberships",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "memberships",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "handicaps",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "handicaps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "tournaments",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "tournaments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "pro-shop",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "pro-shop",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "golf-carts",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "golf-carts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "driving-range",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "driving-range",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "lessons",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "weather",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "food-beverage",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "food-beverage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "events",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "leagues",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "leagues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "financial",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "financial",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "member-directory",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "member-directory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "caddies",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "caddies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "lockers",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "lockers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "bag-storage",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "bag-storage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "marshals",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "marshals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "pace-of-play",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "pace-of-play",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "practice-facilities",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "practice-facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "greens-fees",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "greens-fees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/course-conditions",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-course-conditions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/handicap-analysis",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-handicap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/product-recommendations",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-product-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/member-communications",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-member-communications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/maintenance-optimization",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-maintenance-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/round-pairing",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-round-pairing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/facility-utilization-forecast",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-facility-utilization-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/member-retention",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-member-retention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "/api/ai/tournament-format-recommendation",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager/client/src/pages/features/index.js",
+      "canonical": "api-ai-tournament-format-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-agentic-course-marshal-monitoring-pace-a",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "agentic-course-marshal-monitoring-pace-a",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-dynamic-pricing-engine-adjusting-by-seas",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "dynamic-pricing-engine-adjusting-by-seas",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-member-ltv-churn-prediction-with-targete",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "member-ltv-churn-prediction-with-targete",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-personalized-swing-analysis-from-member-",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "personalized-swing-analysis-from-member",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-course-condition-feedback-loop-using-cou",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "course-condition-feedback-loop-using-cou",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "cf-statistical-leaderboard-add-on-for-tourn",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "statistical-leaderboard-add-on-for-tourn",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-round-pairing-optimization-for-fourso",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "round-pairing-optimization-for-fourso",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-facility-utilization-forecasting",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "facility-utilization-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-member-retention-intervention-ai",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "member-retention-intervention-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-tournament-format-recommender",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "tournament-format-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-swing-analysis-vision-ai",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "swing-analysis-vision-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-payment-processing-surface",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "payment-processing-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-webhook-integration-with-usga-ghin",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "webhook-integration-with-usga-ghin",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-real-time-course-status-feed",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "real-time-course-status-feed",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-on-course-mobile-messaging",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "on-course-mobile-messaging",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-file-upload-for-swing-videos",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "file-upload-for-swing-videos",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "gap-no-audit-log",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "turf-stress-irrigation-planner",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "turf-stress-irrigation-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/course-conditions",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-course-conditions",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/handicap-analysis",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-handicap-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/product-recommendations",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-product-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/member-communications",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-member-communications",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/maintenance-optimization",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-maintenance-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/round-pairing",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-round-pairing",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/facility-utilization-forecast",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-facility-utilization-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/member-retention",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-member-retention",
+      "kind": "route"
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "sourceKey": "ai/tournament-format-recommendation",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "canonical": "api-ai-tournament-format-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "users",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "instructors",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "instructors",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "students",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "students",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "classes",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "classes",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "belt_progressions",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "belt-progressions",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "tests",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "tests",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "memberships",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "memberships",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "attendance",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "attendance",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "tournaments",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "tournaments",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "private_lessons",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "private-lessons",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "equipment",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "billing",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "billing",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "waivers",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "waivers",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "contracts",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "contracts",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "video_library",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "video-library",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMartialArtDojoManager",
+      "sourceKey": "instructor_certifications",
+      "source": "/Volumes/external/projects/AIMartialArtDojoManager",
+      "canonical": "instructor-certifications",
+      "kind": "schema"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/betting",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "betting",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/fantasy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "fantasy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/strategy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/esports",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "esports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/referee",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "referee",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/charts",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "charts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/injury-impact",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "injury-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/performance-regression",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "performance-regression",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/live-betting-optimize",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "live-betting-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/news-sentiment",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "news-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/favorites",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "favorites",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/uploads",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/feedback",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/contact",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/onboarding",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "onboarding",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/admin",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "admin",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/audit",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "betting",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "betting",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "fantasy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "fantasy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "strategy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "esports",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "esports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "referee",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "referee",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "charts",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "charts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/uploads",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/admin",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "admin",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/contact",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/onboarding",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/Dashboard.js",
+      "canonical": "onboarding",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/betting",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/SearchPage.js",
+      "canonical": "betting",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/fantasy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/SearchPage.js",
+      "canonical": "fantasy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/strategy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/SearchPage.js",
+      "canonical": "strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/esports",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/SearchPage.js",
+      "canonical": "esports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "/referee",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/pages/SearchPage.js",
+      "canonical": "referee",
+      "kind": "definition"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "ai-picks",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "picks",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "model-performance",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "model-performance",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-cross-sport-player-valuation-for-daily-fantasy",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "cross-sport-player-valuation-for-daily-fantasy",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-injury-timeline-and-performance-decay-prediction",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "injury-timeline-and-performance-decay-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-live-betting-optimization-with-real-time-win-probability-updates",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "live-betting-optimization-with-real-time-win-probability-updates",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-referee-decision-prediction-based-on-context-history",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "referee-decision-prediction-based-on-context-history",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-sentiment-analysis-on-sports-news-correlated-with-line",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "sentiment-analysis-on-sports-news-correlated-with-line",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "cf-social-leaderboards-and-pick-following",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "social-leaderboards-and-pick-following",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-ai-driven-injury-impact-prediction",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "ai-driven-injury-impact-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-player-performance-regression-modeling",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "player-performance-regression-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-live-betting-probability-updates",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "live-betting-probability-updates",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-integration-with-official-league-data-apis-espn",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "integration-with-official-league-data-apis-espn",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-multi-sport-cross-impact-modeling",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "multi-sport-cross-impact-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-live-chat-for-user-discussion-tips",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "live-chat-for-user-discussion-tips",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-social-features-following-picks-leaderboards",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "social-features-following-picks-leaderboards",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-webhooks-for-downstream-notifications",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "webhooks-for-downstream-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AISportsAnalytics",
+      "sourceKey": "gap-no-third-party-integrations-beyond-import-export",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "canonical": "third-party-integrations-beyond-import-export",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "injury-risk",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "injury-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "volunteer-match",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "volunteer-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "recruitment-pipeline",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "recruitment-pipeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "fair-play-bias",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "fair-play-bias",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "spectator-experience",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "spectator-experience",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "postgame-summary",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "postgame-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ltad-alignment",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "ltad-alignment",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "sponsor-match",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "sponsor-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "players",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "players",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "teams",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "teams",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "facilities",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "facilities",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "games",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "games",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "referees",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "referees",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "communications",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "seasons",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "seasons",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "standings",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "standings",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/team-balancing",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "team-balancing",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/schedule-optimizer",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "schedule-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/referee-matcher",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "referee-matcher",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/player-development",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "player-development",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/game-predictions",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "game-predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/communication-generator",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "communication-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/postgame-summary",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "postgame-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "sourceKey": "ai/injury-risk",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "canonical": "injury-risk",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIDanceStudioManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "/ai",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "/ai-advanced",
+      "source": "/Volumes/external/projects/AIDanceStudioManager/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDanceStudioManager",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AIDanceStudioManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIFitnessCoach/client/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIFitnessCoach",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFitnessCoach",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIGolfCourseOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGolfCourseOperationsManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/privacy",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/terms",
+      "source": "/Volumes/external/projects/AISportsAnalytics/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/betting/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/fantasy/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/strategy/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/esports/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "/referee/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISportsAnalytics",
+      "key": "search",
+      "source": "/Volumes/external/projects/AISportsAnalytics",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIYouthSportsLeagueManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIYouthSportsLeagueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": []
+}

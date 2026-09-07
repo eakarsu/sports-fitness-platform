@@ -1,0 +1,27 @@
+{
+  "id": "sports-fitness-platform",
+  "title": "Sports, fitness & class businesses",
+  "buyer": "Gyms, coaches and sports organizations",
+  "sourceCount": 6,
+  "sources": [
+    "AIDanceStudioManager",
+    "AIFitnessCoach",
+    "AIGolfCourseOperationsManager",
+    "AIMartialArtDojoManager",
+    "AISportsAnalytics",
+    "AIYouthSportsLeagueManager"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46043,
+  "productName": "Sports, fitness Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AIDanceStudioManager",
+    "/Volumes/external/projects/AIFitnessCoach",
+    "/Volumes/external/projects/AIGolfCourseOperationsManager",
+    "/Volumes/external/projects/AIMartialArtDojoManager",
+    "/Volumes/external/projects/AISportsAnalytics",
+    "/Volumes/external/projects/AIYouthSportsLeagueManager"
+  ]
+}
